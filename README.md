@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sharad
+# Hi there!👋, Sharad here
 I am a Full Stack Developer / Designer living in Barabanki, India.
 
 ---
