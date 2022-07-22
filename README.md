@@ -33,9 +33,3 @@ I am a Full Stack Developer / Designer living in Barabanki, India.
 ![](https://github-readme-stats.vercel.app/api?username=sharadcodes&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharadcodes&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadcodes&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-### 💰You can support me by donating at
-
-* UPI ID: `iamsharadraj@okaxis`
