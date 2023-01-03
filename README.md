@@ -16,12 +16,20 @@ I am a Full Stack Developer / Designer living in Barabanki, India.
 
 [![](https://visitcount.itsvg.in/api?id=sharadcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-<a href="https://dev.to/sharadcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sharadcodes" height="30" width="40" /></a>
-<a href="https://twitter.com/iamsharadraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsharadraj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srsmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srsmaurya" height="30" width="40" /></a>
-<a href="https://dribbble.com/iamsharadraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iamsharadraj" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://dev.to/sharadcodes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://dribbble.com/iamsharadraj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/srsmaurya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/iamsharadraj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ### 💻Tech Stack
 
