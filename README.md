@@ -23,8 +23,6 @@ I am a Full Stack Developer / Designer living in Barabanki, India.
 <a href="https://dribbble.com/iamsharadraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="iamsharadraj" height="30" width="40" /></a>
 </p>
 
----
-
 ### 💻Tech Stack
 
 <div align="left">
