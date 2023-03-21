@@ -1,5 +1,5 @@
 # Hi there!👋, Sharad here
-I am a Full Stack Developer with a keen interest in Computer Vision, Transformer models & IOT
+I am a Full Stack Developer with a keen interest in Computer Vision, Transformer & LLaMA models & IOT
 >Currently Pursuing MCA (Data Science)
 
 
