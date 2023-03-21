@@ -7,15 +7,16 @@ I am a Full Stack Developer with a keen interest in Computer Vision, Transformer
 
 ---
 
-#### What am I doing ?
+## What am I doing ?
 
 - Working on Flutter apps along with TFLite.
 - Dabbing my hands in transformer models.
 - Learning IOT stuff.
 
-#### Where is my portfolio ?
+## Where is my portfolio ?
 
 You can check out my portfolio here: https://sharadcodes.github.io
+
 ---
 
 <h3 align="left">Connect with me:</h3>
