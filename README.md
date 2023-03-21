@@ -1,7 +1,7 @@
 <!-- <img width="100%" src='gh.png'/> -->
 
 # Hi there!👋, Sharad here
-I am a Full Stack Developer with a keen interest in Computer Vision, Transformer & LLaMA models & IOT
+I am a Full Stack Developer with a keen interest in Computer Vision, Transformer, LLaMA models & IOT
 >Currently Pursuing MCA (Data Science)
 
 
