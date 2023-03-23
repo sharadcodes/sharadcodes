@@ -69,6 +69,7 @@ You can check out my portfolio here: https://sharadcodes.github.io
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="52" alt="svelte logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
 </div>
+
 ---
 
 ### 📊GitHub Stats :
