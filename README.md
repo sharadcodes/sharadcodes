@@ -13,7 +13,7 @@ I am a Data science student with a keen interest in LLMs, IOT & Computer Vision.
 
 - Working on Flutter apps along with TFLite.
 - Dabbing my hands in transformer models.
-- Learning IOT stuff.
+- Learning IOT.
 
 ## Where is my portfolio ?
 
