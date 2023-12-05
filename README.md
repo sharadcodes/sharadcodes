@@ -1,7 +1,7 @@
 <!-- <img width="100%" src='gh.png'/> -->
 
 # Hi there!👋, Sharad here
-I am a Data science student with a keen interest in LLMs, IOT & Computer Vision.
+Interested in LLMs, IOT & Computer Vision.
 >Currently Pursuing MCA (Data Science)
 
 
