@@ -2,8 +2,6 @@
 
 # Hi there!👋, Sharad here
 Interested in LLMs, IOT & Computer Vision.
->Currently Pursuing MCA (Data Science)
-
 
 [![@sharadcodes's Holopin board](https://holopin.me/sharadcodes)](https://holopin.io/@sharadcodes)
 
