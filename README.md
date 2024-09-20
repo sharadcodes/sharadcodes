@@ -5,11 +5,6 @@ Interested in LLMs, IOT & Computer Vision.
 
 [![@sharadcodes's Holopin board](https://holopin.me/sharadcodes)](https://holopin.io/@sharadcodes)
 
-
-## Where is my portfolio ?
-
-You can check out my portfolio here: https://sharadcodes.github.io
-
 ---
 
 <h3 align="left">Connect with me:</h3>
