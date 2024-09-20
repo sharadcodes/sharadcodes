@@ -5,13 +5,6 @@ Interested in LLMs, IOT & Computer Vision.
 
 [![@sharadcodes's Holopin board](https://holopin.me/sharadcodes)](https://holopin.io/@sharadcodes)
 
----
-
-## What am I doing ?
-
-- Working on Flutter apps along with TFLite.
-- Dabbing my hands in transformer models.
-- Learning IOT.
 
 ## Where is my portfolio ?
 
