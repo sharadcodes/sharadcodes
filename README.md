@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Sharad  
-#### 🚀 Prev: Software Developer @ IIRS - Indian Space Research Organisation (ISRO)  
-**Data Science | GIS | Ex-IIRS - ISRO, UCOST**  
+**Data Science | GIS | Ex-IIRS - Indian Space Research Organisation (ISRO), UCOST**  
 Passionate about geospatial technology, AI, and solving real-world problems with data. 🚀
 
 ---
