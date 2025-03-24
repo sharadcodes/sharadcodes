@@ -1,26 +1,23 @@
-<!-- <img width="100%" src='gh.png'/> -->
-
-# Hi there!👋, Sharad here
-Data Science Graduate (2024)
-
-Prev. - Software Developer at IIRS, Indian Space Research Organisation (ISRO)
+# Hi there! 👋 I'm Sharad  
+#### 🚀 Prev: Software Developer @ IIRS - Indian Space Research Organisation (ISRO)  
+**Data Science | GIS | Ex-IIRS - ISRO, UCOST**  
+Passionate about geospatial technology, AI, and solving real-world problems with data. 🚀
 
 ---
 
-[![@sharadcodes's Holopin board](https://holopin.me/sharadcodes)](https://holopin.io/@sharadcodes)
+[![@sharadcodes's Holopin board](https://holopin.me/sharadcodes)](https://holopin.io/@sharadcodes)  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
+## 🌐 Connect with Me  
+<p align="left">
   <a href="https://dev.to/sharadcodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="Dev.to" />
   </a>
   <a href="https://www.linkedin.com/in/srsmaurya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/iamsharadraj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
   </a>
-</div>
+</p>
