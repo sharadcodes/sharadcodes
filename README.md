@@ -1,6 +1,5 @@
-# Hi there! 👋 I'm Sharad  
-**Data Science | GIS | Prev -- IIRS - Indian Space Research Organisation (ISRO) | UCOST**  
-Passionate about Data Science, Geospatial tech. and solving real-world problems with data. 🚀
+# **Konnichiwa! I’m Sharad**
+**Data Science | GIS | Prev @ IIRS - Indian Space Research Organisation (ISRO), UCOST**  
 
 ---
 
