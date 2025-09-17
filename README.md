@@ -1,4 +1,3 @@
-# **Konnichiwa! I’m Sharad**
 **Data Science | GIS | Prev @ IIRS - Indian Space Research Organisation (ISRO), UCOST**  
 
 ---
