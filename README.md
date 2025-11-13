@@ -1,4 +1,4 @@
-**Data Science | GIS | Prev @ IIRS - Indian Space Research Organisation (ISRO), UCOST**  
+**Data Science | GIS | Prev @ IIRS - ISRO**  
 
 ---
 
